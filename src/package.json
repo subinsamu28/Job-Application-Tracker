@@ -1,0 +1,48 @@
+{
+  "name": "job-application-tracker",
+  "version": "10.0.0",
+  "description": "A modern web application to track job applications with analytics and insights",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "latest",
+    "recharts": "^2.12.7",
+    "sonner": "^2.0.3",
+    "react-hook-form": "^7.55.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11",
+    "typescript": "^5.6.3",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1"
+  },
+  "keywords": [
+    "job-tracker",
+    "application-tracker",
+    "job-search",
+    "career",
+    "portfolio-project",
+    "react",
+    "typescript",
+    "tailwind"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/job-application-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/job-application-tracker/issues"
+  },
+  "homepage": "https://YOUR_USERNAME.github.io/job-application-tracker/"
+}
